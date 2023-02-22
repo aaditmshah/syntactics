@@ -36,7 +36,7 @@ Syntactics is a monadic bottom-up parser combinator library.
 
 ## Examples
 
-- [JSON parser](https://github.com/aaditmshah/syntactics/blog/master/src/json.ts)
+- [JSON parser](https://github.com/aaditmshah/syntactics/blob/main/src/json.ts)
 
 ## API Reference
 
