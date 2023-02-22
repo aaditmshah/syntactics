@@ -1,6 +1,6 @@
 {
   "name": "syntactics",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Monadic bottom-up parser combinator library.",
   "keywords": [
     "applicative",
